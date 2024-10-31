@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParejaBaile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParejaBaile_jar</output-path>
+    <root id="archive" name="ParejaBaile.jar">
+      <element id="module-output" name="ParejaBaile" />
+    </root>
+  </artifact>
+</component>
